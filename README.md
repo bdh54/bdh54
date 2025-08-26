@@ -1,10 +1,10 @@
 <p align="center">
-  <a href=“https://www.linkedin.com/in/brendan-hendricks” target="_blank" rel="noopener">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"
-      alt="My LinkedIn"
-    />
-  </a>
+  <a href="https://www.linkedin.com/in/brendan-hendricks" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+      alt="My LinkedIn"
+    />
+  </a>
 </p>
 
 
